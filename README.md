@@ -1,2 +1,2 @@
 # My_practic_on_google
-shoooo
+I am editing the README file. Adding some more details about the project description.
